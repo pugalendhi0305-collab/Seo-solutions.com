@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://pugalendhi0305-collab.github.io/Seo-solutions.com/sitemap.xml
